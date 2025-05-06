@@ -10,7 +10,10 @@ Incredibly ambitious project, designed around Supervisory Control and Data Acqui
 In theory up until phase 2 doesn't seem to be too hard to do, though I suspect I will eat my words once I start building it.
 
 
+
 ## Phases of project
+### Illustration
+![Factory Illustration](./pictures/FactoryOutput.png)
 ### Phase 1
 The primary objective is to just get the skeleton working with the following goals:
 - Have system hirearchy ready
@@ -53,7 +56,9 @@ The primary objective is to just get the skeleton working with the following goa
 - Make system be able to use both cable and wireless as necessary
 - Centralised chest that can be used to individually direct soemthing to specific production line with output chest as well
 - Control over relevant rail network (Ie ask for something from neighboring farm and send train out for it)
+- Security for the Factory
 - Review everything, and any changes that need to be made
+
 
 ### Phase 4 (Very optimistic thinking)
 - Master starts adjusting its item stocking based on when idle (differentiate between user and computer requests)
